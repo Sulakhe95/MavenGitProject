@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21892" started-at="2021-09-28T16:22:55 IST" finished-at="2021-09-28T16:23:17 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21892" started-at="2021-09-28T16:22:55 IST" finished-at="2021-09-28T16:23:17 IST">
+      <class name="mvnproject.Demo">
+        <test-method status="PASS" signature="mavenOne()[pri:0, instance:mvnproject.Demo@2d928643]" name="mavenOne" duration-ms="8661" started-at="2021-09-28T16:22:55 IST" finished-at="2021-09-28T16:23:04 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenOne -->
+      </class> <!-- mvnproject.Demo -->
+      <class name="mvnproject.Sample">
+        <test-method status="PASS" signature="mavenTwo()[pri:0, instance:mvnproject.Sample@5025a98f]" name="mavenTwo" duration-ms="13153" started-at="2021-09-28T16:23:04 IST" finished-at="2021-09-28T16:23:17 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mavenTwo -->
+      </class> <!-- mvnproject.Sample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
